@@ -1,7 +1,7 @@
 {
-  "name": "pxq",
+  "name": "react-demo",
   "version": "1.1.1",
-  "description": "react-pxq",
+  "description": "react-shop-demo",
   "main": "index.html",
   "scripts": {
     "dev": "node server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "github",
-    "url": "https://github.com/bailicangdu/pxq"
+    "url": "https://github.com/yilisong/react-shop-demo"
   },
   "author": "yilisong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bailicangdu/pxq/issues"
+    "url": "https://github.com/yilisong/react-shop-demo/issues"
   },
-  "homepage": "https://github.com/bailicangdu/pxq#readme",
+  "homepage": "https://github.com/yilisong/react-shop-demo#readme",
   "dependencies": {
     "github-markdown-css": "^2.4.0",
     "immutable": "^3.8.1",
